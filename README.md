@@ -225,12 +225,12 @@ jobs:
 
 ```env
 PREFIXE=.
-NOM_OWNER=Ainz
-NUMERO_OWNER=226xxxxxxxx
+NOM_OWNER=PlayerYG
+NUMERO_OWNER=241889908
 MODE=public
 SESSION_ID=
 STICKER_PACK_NAME=ᴏᴠʟ-ᴍᴅ-ᴠ𝟸
-STICKER_AUTHOR_NAME=ᴀɪɴᴢ🔅✨
+STICKER_AUTHOR_NAME=YG🔅✨
 NOM_BOT=🤖 OVL-MD BOT V2
 ```
 
@@ -240,21 +240,18 @@ NOM_BOT=🤖 OVL-MD BOT V2
 
 ### 🌍 Rejoins la Communauté OVL
 
-[![WhatsApp Support](https://img.shields.io/badge/Support%20WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/BP1oOMh0QvR7H3vvO9bRYK)
-[![Telegram Channel](https://img.shields.io/badge/Canal%20Telegram-229ED9?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ovlmd_tlg)
-[![WhatsApp Channel](https://img.shields.io/badge/Channel%20WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://whatsapp.com/channel/0029VayTmvxHltYGCm0J7P0A)
+
+[![WhatsApp Channel](https://chat.whatsapp.com/EKxDHkLp0At5Pfxmz0Lf1b?mode=gi_t)
 
 Partage, pose tes questions, et reste à jour avec toutes les nouveautés du projet !
 
 ---
 
 ### 👨‍💻 Développeur Principal
-- **Ainz**
+- **Player+241**
 ---
 ### 🙌 Remerciements
-- Haibo_lugh – pour son soutien et aide dans la gestion du bot au support.
 - Nathan Harmone – pour ses tutoriels YouTube.
-- Dr Djibi – pour son soutien.
 ---
 ### 📄 Licence
 
